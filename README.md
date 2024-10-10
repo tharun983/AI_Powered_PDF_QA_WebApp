@@ -12,4 +12,4 @@ So I tried adding a feature to add people so that we can have a chat on the webs
   <b>Figure 2: Add comments</b>
 </p>
 
-And ofcourse I can't say this is a fully functioning model project, because I didnt know how to make the username people to make comments, but if i got this job, I would like to work on these type of projects.
+And ofcourse I can't say this is a fully functioning model project, because I didnt know how to make the username people to make comments, but if i get this job, I would like to work on these type of projects.
