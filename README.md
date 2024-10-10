@@ -7,8 +7,8 @@ So I tried adding a feature to add people so that we can have a chat on the webs
   <b>Figure 1: Add people</b>
 </p>
 <p align="center">
-  <img src="images/Screenshot 2024-10-10 221315.png" alt="Screenshot of the app" width="100%"/>
+  <img src="images/Screenshot 2024-10-10 221445.png" alt="Screenshot of the app" width="100%"/>
   <br>
-  <b>Figure 1: Add people</b>
+  <b>Figure 2: Add people</b>
 </p>
 
