@@ -9,6 +9,7 @@ So I tried adding a feature to add people so that we can have a chat on the webs
 <p align="center">
   <img src="images/Screenshot 2024-10-10 221445.png" alt="Screenshot of the app" width="100%"/>
   <br>
-  <b>Figure 2: Add people</b>
+  <b>Figure 2: Add comments</b>
 </p>
 
+And ofcourse I can't say this is a fully functioning model project, because I didnt know how to make the username people to make comments, but if i got this job, I would like to work on these type of projects.
