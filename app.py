@@ -35,7 +35,7 @@ class AgentRequest(BaseModel):
     use_vectordb: bool  # Flag to choose between VectorDB or Cohere directly
 
 # Initialize Cohere client (replace with your API key)
-cohere_client = Client("8wgcLA8KR8GmgAHaM73oaE7I6mgx6lRuTVdqWKkN")
+cohere_client = Client("Your api key")
 
 
 @app.get("/")
